@@ -1,6 +1,5 @@
-#OkulSistemi
-
-##Genel bakış
+# OkulSistemi
+## Genel bakış
 Bu projede, Okul Sistemi için geliştirilen kodların kaynağı yer almaktadır. Bu proje, Java dilinde yazılmış bir  Okul sistemi uygulamasını içermektedir.Proje temelde Okul  Uygulaması niteliğinde Windows Form üzerinden
 yapılmaktadır. Proje kullanıcının istekleri doğrultusunda Ögrenci kaydı,Ogrenci kayıtlarını listeleme ,Öğretim görevlisi bilgileri kaydı,Öğretim bilgisi verileri listeleme ,ders kaydı yapma ve ders kaydı listeleme
 yapmayı amaçlamaktadır. Bu yönergeleri, projeyi kendi makinenizde çalıştırmak ve geliştirmek için kullanabilirsiniz. ###Temel Bileşenler DersKayit sınıfı içinde ders adı, derskodu, dersdonemi, ogretimgörevlisi ve
